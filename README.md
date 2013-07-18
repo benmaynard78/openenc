@@ -1,0 +1,4 @@
+openenc
+=======
+
+Puppet ENC
